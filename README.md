@@ -67,7 +67,7 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 ## My Portfolio:
 
-<h4>Web:</h4>
+<h3>Web:</h3>
 
 ### 🔗 [doggycareer](https://doggycareer.vercel.app)
 A modern job-seeking platform where users can easily search for job opportunities or post openings. It's designed to be simple, intuitive, and efficient — whether you're hiring or job hunting [[github repository](https://github.com/ibrvgim/doggycareer)].
@@ -91,7 +91,7 @@ A feedback collection platform where companies can create accounts, post product
 An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure — perfect for staying productive and clutter-free [[github repository](https://github.com/ibrvgim/climb)].
 
 
-<h4>Mobile:</h4>
+<h3>Mobile:</h3>
 
 ### 🔗 [doggycareer: mobile](https://github.com/ibrvgim/doggycareer-mobile-app)
 A modern job-seeking mobile application platform where users can easily search for job opportunities or post openings. APK file available for android operating systems.
