@@ -1,4 +1,4 @@
-<h1 align="center">IBRAHIM ISMAYILOV</h1>
+![Banner](https://github.com/user-attachments/assets/3f0ac9ca-0304-4b60-9a19-1124252e85fd)
 
 
 ## About Me:
