@@ -1,8 +1,9 @@
 <h1 align="center"><strong>IBRAHIM ISMAYILOV</strong></h1>
 
-### About Me:
 
+### About Me:
 Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best practices, clean code, and modern frameworks to create fast, responsive, and engaging user experiences. I love connecting with new people, give me a shout at iibrahim.ismayilovv@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ibrvhim/).
+
 
 ### Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -32,8 +33,32 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 
+
 ### Social Media:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrvhim)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iibrahim.ismayilovv@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibrvx)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/steveeeee.)
+
+
+### My Portfolio: 
+### 🔗 [doggycareer](https://doggycareer.vercel.app)
+A modern job-seeking platform where users can easily search for job opportunities or post openings. It's designed to be simple, intuitive, and efficient — whether you're hiring or job hunting.
+
+### 🔗 [the wild oasis](https://the-wild-oasis-vacations.vercel.app)
+A cozy hotel booking demo where users can explore and book beautiful cabin stays for their next holiday getaway. Clean design, easy navigation, and all the essentials for a relaxing booking experience.
+
+### 🔗 [the wild oasis: admin dashboard](https://the-wild-oasis-sigma-eight.vercel.app/dashboard)
+An admin dashboard built for managing The Wild Oasis. From updating cabin images and prices to viewing key stats and occupancy — this tool puts everything in one place for seamless hotel management.
+
+### 🔗 [echoverse](https://echoverse-seven.vercel.app)
+A sleek demo e-commerce platform designed to showcase product listings in a clean and minimal layout. Ideal for experimenting with shopping flows, cart features, and responsive design.
+
+### 🔗 [aestheticecho](https://aestheticecho.vercel.app)
+A portfolio-style demo website for a fictional design agency. Built to highlight creativity and style, with a focus on bold visuals and clean, modern UI.
+
+### 🔗 [mind hub](https://product-feedback-eight.vercel.app)
+A feedback collection platform where companies can create accounts, post products or features, and gather suggestions and comments from users. A simple, effective way to stay in touch with customer needs.
+
+### 🔗 [climb](https://climb-beta.vercel.app)
+An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure—perfect for staying productive and clutter-free.
