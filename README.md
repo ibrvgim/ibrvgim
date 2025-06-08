@@ -1,14 +1,14 @@
 <h1 align="center">IBRAHIM ISMAYILOV</h1>
 
 
-### About Me:
+## About Me:
 Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best practices, clean code, and modern frameworks to create fast, responsive, and engaging user experiences. I love connecting with new people, give me a shout at iibrahim.ismayilovv@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ibrvhim/).
 
 </br>
 
-### Tech Stack:
+## Tech Stack:
 
-<h4>Programming language:</h4>
+<h4>Programming languages:</h4>
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,7 +56,7 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 </br>
 
-### Social Media:
+## Social Media:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ibrvhim)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iibrahim.ismayilovv@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ibrvx)
@@ -65,7 +65,7 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 </br>
 
-### My Portfolio:
+## My Portfolio:
 
 <h4>Web:</h4>
 
