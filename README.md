@@ -1,4 +1,4 @@
-<h1 align="center"><strong>IBRAHIM ISMAYILOV</strong></h1>
+<h1 align="center">IBRAHIM ISMAYILOV</h1>
 
 
 ### About Me:
@@ -42,24 +42,35 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/steveeeee.)
 
 
-### My Portfolio: 
+### My Portfolio:
+
+<h4>Web:</h4>
+
 ### 🔗 [doggycareer](https://doggycareer.vercel.app)
-A modern job-seeking platform where users can easily search for job opportunities or post openings. It's designed to be simple, intuitive, and efficient — whether you're hiring or job hunting.
+A modern job-seeking platform where users can easily search for job opportunities or post openings. It's designed to be simple, intuitive, and efficient — whether you're hiring or job hunting [[github repository](https://github.com/ibrvgim/doggycareer)].
 
 ### 🔗 [the wild oasis](https://the-wild-oasis-vacations.vercel.app)
-A cozy hotel booking demo where users can explore and book beautiful cabin stays for their next holiday getaway. Clean design, easy navigation, and all the essentials for a relaxing booking experience.
+A cozy hotel booking demo where users can explore and book beautiful cabin stays for their next holiday getaway. Clean design, easy navigation, and all the essentials for a relaxing booking experience [[github repository](https://github.com/ibrvgim/the-wild-oasis-users)].
 
 ### 🔗 [the wild oasis: admin dashboard](https://the-wild-oasis-sigma-eight.vercel.app/dashboard)
-An admin dashboard built for managing The Wild Oasis. From updating cabin images and prices to viewing key stats and occupancy — this tool puts everything in one place for seamless hotel management.
+An admin dashboard built for managing The Wild Oasis. From updating cabin images and prices to viewing key stats and occupancy — this tool puts everything in one place for seamless hotel management [[github repository](https://github.com/ibrvgim/the-wild-oasis-internal-managment)].
 
 ### 🔗 [echoverse](https://echoverse-seven.vercel.app)
-A sleek demo e-commerce platform designed to showcase product listings in a clean and minimal layout. Ideal for experimenting with shopping flows, cart features, and responsive design.
+A sleek demo e-commerce platform designed to showcase product listings in a clean and minimal layout. Ideal for experimenting with shopping flows, cart features, and responsive design [[github repository](https://github.com/ibrvgim/echoverse)].
 
 ### 🔗 [aestheticecho](https://aestheticecho.vercel.app)
-A portfolio-style demo website for a fictional design agency. Built to highlight creativity and style, with a focus on bold visuals and clean, modern UI.
+A portfolio-style demo website for a fictional design agency. Built to highlight creativity and style, with a focus on bold visuals and clean, modern UI [[github repository](https://github.com/ibrvgim/aestheticecho)].
 
 ### 🔗 [mind hub](https://product-feedback-eight.vercel.app)
-A feedback collection platform where companies can create accounts, post products or features, and gather suggestions and comments from users. A simple, effective way to stay in touch with customer needs.
+A feedback collection platform where companies can create accounts, post products or features, and gather suggestions and comments from users. A simple, effective way to stay in touch with customer needs [[github repository](https://github.com/ibrvgim/product-feedback)].
 
 ### 🔗 [climb](https://climb-beta.vercel.app)
-An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure — perfect for staying productive and clutter-free.
+An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure — perfect for staying productive and clutter-free [[github repository](https://github.com/ibrvgim/climb)].
+
+</br>
+<h4>Mobile:</h4>
+
+### 🔗 [doggycareer: mobile](https://github.com/ibrvgim/doggycareer-mobile-app)
+A modern job-seeking mobile application platform where users can easily search for job opportunities or post openings. APK file available for android operating systems.
+
+
