@@ -61,4 +61,4 @@ A portfolio-style demo website for a fictional design agency. Built to highlight
 A feedback collection platform where companies can create accounts, post products or features, and gather suggestions and comments from users. A simple, effective way to stay in touch with customer needs.
 
 ### 🔗 [climb](https://climb-beta.vercel.app)
-An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure—perfect for staying productive and clutter-free.
+An advanced task and note management app that lets users create, organize, and track their work. Tasks and notes can be grouped into folders for better structure — perfect for staying productive and clutter-free.
