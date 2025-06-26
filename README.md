@@ -1,6 +1,3 @@
-![Banner](https://github.com/user-attachments/assets/3f0ac9ca-0304-4b60-9a19-1124252e85fd)
-
-
 ## About Me:
 Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best practices, clean code, and modern frameworks to create fast, responsive, and engaging user experiences. I love connecting with new people, give me a shout at iibrahim.ismayilovv@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ibrvhim/).
 
