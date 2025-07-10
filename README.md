@@ -76,6 +76,9 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 <h3>Web:</h3>
 
+### 🔗 [nexura bank](https://nexura-bank.vercel.app)
+Nexura is an online banking. Create an account in minutes and use seamless transfers, payments, and savings. Nexura supports multiple currencies and enables fast, secure transactions across a wide range of countries — all in one intuitive interface [[github repository](https://github.com/ibrvgim/nexura-bank)].
+
 ### 🔗 [doggycareer](https://doggycareer.vercel.app)
 A modern job-seeking platform where users can easily search for job opportunities or post openings. It's designed to be simple, intuitive, and efficient — whether you're hiring or job hunting [[github repository](https://github.com/ibrvgim/doggycareer)].
 
