@@ -66,12 +66,6 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 </br>
 
-## My Statistics:
-[![GitHub Streak](https://streak-stats.demolab.com?user=ibrvgim&theme=dark)](https://git.io/streak-stats)
-
-
-</br>
-
 ## My Portfolio:
 
 <h3>Web:</h3>
