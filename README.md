@@ -95,6 +95,9 @@ A sleek demo e-commerce platform designed to showcase product listings in a clea
 ### 🔗 [aestheticecho](https://aestheticecho.vercel.app)
 A portfolio-style demo website for a fictional design agency. Built to highlight creativity and style, with a focus on bold visuals and clean, modern UI [[github repository](https://github.com/ibrvgim/aestheticecho)].
 
+### 🔗 [skylytics](https://skylytics-dusky.vercel.app)
+Stay ahead of the weather with Skylytics, your smart and easy-to-use weather website. Instantly get accurate daily forecasts based on your current GPS location or search for any city worldwide [[github repository](https://github.com/ibrvgim/skylytics)].
+
 ### 🔗 [mind hub](https://product-feedback-eight.vercel.app)
 A feedback collection platform where companies can create accounts, post products or features, and gather suggestions and comments from users. A simple, effective way to stay in touch with customer needs [[github repository](https://github.com/ibrvgim/product-feedback)].
 
