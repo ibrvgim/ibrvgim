@@ -3,10 +3,6 @@ Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best pra
 
 </br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibrvgim&layout=compact)
-
-</br>
-
 ## Tech Stack:
 
 <h4>Programming languages:</h4>
