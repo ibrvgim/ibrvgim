@@ -1,5 +1,5 @@
 ## About Me:
-Frontend Developer with 𝟮+ 𝘆𝗲𝗮𝗿𝘀 of experience. I use best practices, clean code, and modern frameworks to create fast, responsive, and engaging user experiences. I love connecting with new people, give me a shout at iibrahim.ismayilovv@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ibrvhim/).
+Frontend Developer with over 3 𝘆𝗲𝗮𝗿𝘀 of experience. I use best practices, clean code, and modern frameworks to create fast, responsive, and engaging user experiences. I love connecting with new people, give me a shout at iibrahim.ismayilovv@gmail.com or on [LinkedIn](https://www.linkedin.com/in/ibrvhim/).
 
 </br>
 
